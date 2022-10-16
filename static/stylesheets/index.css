@@ -1,0 +1,70 @@
+
+@font-face {
+  font-family: GothamMedium;
+  src: url('../fonts/Gotham-Font/Gotham-Black.otf');
+}
+
+body{
+  background-color: #fafafa;
+}
+
+nav{
+  background-color: #213263;
+}
+
+#navbar-brand{
+  font-family: GothamMedium;
+  font-size: 30px;
+color: #f6e72a;
+}
+
+#login-button{
+  font-family: GothamMedium;
+    color: #213263;
+    background-color: #f6e72a;
+    border-radius: 16px;
+    border: 1px solid;
+}
+
+
+
+h1{
+  font-family: GothamMedium;
+  color: #213263;
+
+}
+
+h4{
+  font-family: GothamMedium;
+  color: #213263;
+
+}
+
+
+
+h5{
+  font-family: GothamMedium;
+  color: #213263;
+
+}
+
+.title-text{
+  font-size: 60px;
+}
+
+.img-fluid{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+
+}
+
+.padding-0{
+    padding-right:0;
+    padding-left:0;
+}
+.btn{
+  font-size: 30px;
+  text-align: center;
+    line-height: 70px;
+}
